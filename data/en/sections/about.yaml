@@ -1,0 +1,56 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Senior Cybersecurity Engineer
+# your company information
+company:
+  name: Sopra Steria
+  url: "https://www.soprasteria.fr/"
+
+# your resume. this file path should be relative to you "static" directory
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a Cybersecurity Engineer that love to work on both Offensive and Defensive project. I really like to code my own offensive tools in Golang or C++ and try to evade the security of my homelab SOC :D'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "thepicpixel@r0nd.fr"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/ThePicpixel"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/hugo-pichon-cyber/"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: GIAC Reverse Engineering Malware (GREM)
+  url: "https://www.credly.com/badges/f1b40ddd-c7e6-4d4b-adce-c092efd7538b/linked_in_profile"
+  badge: "https://images.credly.com/size/340x340/images/f97424db-0114-4c38-b488-8cd179eb5a7a/image.png"
+
+# - type: soft-skill-indicator
+#   name: Leadership
+#   percentage: 85
+#   color: blue
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

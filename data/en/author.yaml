@@ -1,0 +1,18 @@
+# some information about you
+name: "Hugo PICHON"
+nickname: "ThePicpixel"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/PP.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "thepicpixel@r0nd.fr"
+  github: ThePicpixel
+  linkedin: hugo-pichon-cyber
+
+# some summary about what you do
+summary:
+  - I am an Offensive/Defensive Cybersecurity Engineer
+  - I sharpen my Threat Hunting skills
+  - I develop my own tools
+  - I am an OpenSource enthousiast

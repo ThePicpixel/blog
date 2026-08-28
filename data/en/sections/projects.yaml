@@ -1,0 +1,56 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+buttons:
+- name: All
+  filter: "all"
+- name: Malware Analysis
+  filter: "malware"
+- name: Golang
+  filter: "golang"
+- name: SOC
+  filter: "soc"
+
+projects:
+- name: Triage
+  logo: images/logos/ollama.webp
+  role: Maintainer
+  timeline: "July 2026 - Present"
+  repo: https://github.com/ThePicpixel/Triage
+  summary: Agentic workflow for automatic malware classification
+  tags: ["malware"]
+- name: Cerberus
+  logo: images/logos/python.png
+  role: Maintainer
+  timeline: "July 2026 - Present"
+  repo: https://github.com/ThePicpixel/Cerberus
+  summary: Home made sandbox
+  tags: ["malware"]
+- name: Protego
+  logo: images/logos/golang.png
+  role: Maintainer
+  timeline: "May 2026 - Present"
+  repo: https://github.com/ThePicpixel/Protego
+  summary: Home made EDR for test lab
+  tags: ["golang", "soc"]
+- name: Sparassidae
+  logo: images/logos/elastic.png
+  role: Maintainer
+  timeline: "March 2022 - Present"
+  repo: https://github.com/ThePicpixel/Sparassidae
+  summary: Automated solution to deploy detection tools for testing purposes
+  tags: ["soc"]
+- name: Mocker
+  logo: images/logos/python.png
+  role: Maintainer
+  timeline: "August 2026 - Present"
+  repo: https://github.com/ThePicpixel/Mocker
+  summary: Mocker is a tool to emulate benign logs and inject APT activity logs among them
+  tags: ["soc"]
