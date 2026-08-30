@@ -12,8 +12,8 @@ tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---
 
-Greeting! This is an introduction post. This post tests the followings:
+Greetings! This is an introduction post. This post tests the following:
 
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
+- The hero image is in the same directory as the post.
+- This post should be at the top of the sidebar.
+- The post author should be the same as specified in the `author.yaml` file.

@@ -30,17 +30,17 @@ skills:
 
 - name: Golang
   logo: /images/logos/golang.png
-  summary: "Capable of developping complex programs using Golang. Experienced in Offensive and Defensive development."
+  summary: "Capable of developing complex programs using Golang. Experienced in Offensive and Defensive development."
   url: "https://www.elastic.co/"
 
 - name: C++
   logo: /images/logos/C++.png
-  summary: "Capable of developping complex programs using C++20. Experienced in Offensive and Defensive development, with my own compilation and cross-compilation toolchains based on clang."
+  summary: "Capable of developing complex programs using C++20. Experienced in Offensive and Defensive development, with my own compilation and cross-compilation toolchains based on clang."
   url: "https://www.elastic.co/"
 
 - name: Python
   logo: /images/logos/python.png
-  summary: "Capable of developping various tools in Python."
+  summary: "Capable of developing various tools in Python."
   url: "https://www.elastic.co/"
 
 - name: Ollama
@@ -50,5 +50,5 @@ skills:
 
 - name: Reverse Engineering
   logo: /images/logos/cutter.svg
-  summary: "Capable of analysing complex programs using behavioral/static/dynamic analysis. Experienced in dissecting malwares using rizin-cutter."
+  summary: "Capable of analysing complex programs using behavioral/static/dynamic analysis. Experienced in dissecting malware using rizin-cutter."
   url: "https://www.elastic.co/"

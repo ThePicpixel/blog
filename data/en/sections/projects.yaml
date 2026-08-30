@@ -31,14 +31,14 @@ projects:
   role: Maintainer
   timeline: "July 2026 - Present"
   repo: https://github.com/ThePicpixel/Cerberus
-  summary: Home made sandbox
+  summary: Homemade sandbox
   tags: ["malware"]
 - name: Protego
   logo: images/logos/golang.png
   role: Maintainer
   timeline: "May 2026 - Present"
   repo: https://github.com/ThePicpixel/Protego
-  summary: Home made EDR for test lab
+  summary: Homemade EDR for test lab
   tags: ["golang", "soc"]
 - name: Sparassidae
   logo: images/logos/elastic.png
