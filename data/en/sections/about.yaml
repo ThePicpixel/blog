@@ -18,7 +18,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a Cybersecurity Engineer who loves working on both Offensive and Defensive projects. I really like to code my own offensive tools in Golang or C++ and try to evade the security of my homelab SOC :D'
+summary: 'I am a Cybersecurity Engineer who loves working on both Offensive and Defensive projects. I really like to code my own offensive tools in Golang or C++ and try to evade the security of my homelab SOC'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
